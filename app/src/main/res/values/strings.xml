@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentSmsphone722</string>
+    <string name="hint_phone">+7 (495) 123-00-12</string>
+    <string name="write_message">Write message</string>
+    <string name="call">Call</string>
+    <string name="send_a_message">Send a message</string>
+    <string name="permission_not_granted">Permission not granted</string>
+</resources>
